@@ -8,21 +8,28 @@
 - 📘 Работал в сфере переводов Техническимм координатором
 - 🎓 Учился на курсе "Школа для начинающих тестировщиков" - Ольга Назина
 - 💡 Примеры работ доступны на Github
-- 📄 Мое резюме тут
+- 📄 Мое резюме [тут](https://drive.google.com/file/d/1LIqqEG0RzM6JuGdznzAXitD1KhltCUYc/view?usp=sharing)
 - 💻 В свободное время изучаю JavaScript
 - 🏒 Играю в любительской хоккейной команде
 
 
 ### Софт с которым уже успел поработать:  
-Баг-трекинг: Jira, Redmine, Bugzilla, Mantis  
 Составление тестов: Sitechco, Confluence, TestLink, TestRail  
-API: Postman (методы GET, POST, PUT, DELETE), SoapUI  
-Web: HTML, CSS, VS Code, Chrome DevTools  
-Другое: mindmap, bash (touch, mkdir, nano, cp, mv, cat, rmdir, grep, ps, ping, curl), MySQL (WHERE, IN, LIKE, GROUP BY, JOIN)  
+Баг-трекинг: Jira, Redmine, Bugzilla, Mantis  
+Базы данных: MySQL (SELECT, JOIN, DELETE)  
+API: Postman, SoapUI, DevTools, XML, JSON  
+Web: HTML, CSS, JavaScript, VS Code  
+Другое: mindmap, bash (touch, mkdir, nano, cp, mv, cat, rmdir, grep, ps, ping, curl)  
+
+### Сертификаты
+Автоматизация тестирования API в Postman для начинающих [(ссылка)](https://stepik.org/cert/2130586)  
+SQL‐ACADEMY [(ссылка)](https://drive.google.com/file/d/1CzMbtJx71r17WncnsYWpFGzoNGTkE7Ha/view?usp=sharing)
+
 
 ### Контакты для связи:  
 Gmail - alexlyzhnikov@gmail.com  
-Telegram - [t.me/ShvedLA ](https://t.me/ShvedLA) 
+Telegram - [t.me/ShvedLA ](https://t.me/ShvedLA)  
+Tel.: +79850417642
 
 
 <!--
