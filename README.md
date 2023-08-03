@@ -29,7 +29,6 @@ SQL‐ACADEMY [(сертификат)](https://drive.google.com/file/d/1CzMbtJx7
 ### Контакты для связи:  
 Gmail - alexlyzhnikov@gmail.com  
 Telegram - [t.me/ShvedLA ](https://t.me/ShvedLA)  
-Tel.: +79850417642
 
 
 <!--
