@@ -11,7 +11,7 @@
 - 🏒 Играю в любительской хоккейной команде
 
 
-### HARD SKILLS:  
+### Hard skills:  
 <b>TMS</b>: TestRail, Confluence, TestLink  
 <b>BTS</b>: Jira, Redmine, Bugzilla, Mantis, YouTrack  
 <b>Database</b>: MySQL (SELECT, JOIN, DELETE)  
